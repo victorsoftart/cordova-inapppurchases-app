@@ -1,6 +1,6 @@
-# inapppurchases-app
-
 <img src="screenshot.png?a"/>
+
+# inapppurchases-app
 
 A sample app to demonstrate in app purchases using the [cordova-plugin-inapppurchase](https://github.com/AlexDisler/cordova-plugin-inapppurchase) plugin on iOS and Android.
 
