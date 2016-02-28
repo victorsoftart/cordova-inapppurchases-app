@@ -12,6 +12,8 @@ Update the package name to the one of your app in the [config.xml](https://githu
 
 Add your app's product ids in the [www/js/app.js](https://github.com/AlexDisler/inapppurchases-app/blob/master/www/js/app.js#L18) file.
 
+On ***Android*** add your Google Play Store key to the [www/manifest.json](https://github.com/AlexDisler/inapppurchases-app/blob/master/www/manifest.json#L1) file.
+
 Build & run the app on a device with an account that can test in app purchases.
 
 ## License
