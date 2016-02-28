@@ -2,7 +2,7 @@
 
 # cordova-inapppurchases-app
 
-A sample app to demonstrate in app purchases using the [cordova-plugin-inapppurchase](https://github.com/AlexDisler/cordova-plugin-inapppurchase) plugin on iOS and Android.
+A sample app to demonstrate in app purchases using the [cordova-plugin-inapppurchase](https://github.com/AlexDisler/cordova-plugin-inapppurchase) plugin on iOS and Android. See [blog post](https://alexdisler.com/2016/02/29/in-app-purchases-ionic-cordova/).
 
 ## Instructions
 
