@@ -41,7 +41,7 @@ angular.module('starter', ['ionic'])
       .then(function (data) {
         console.log(JSON.stringify(data));
         console.log('consuming transactionId: ' + data.transactionId);
-        return inAppPurchase.consume(data.transactionId);
+        return inAppPurchase.consume(data.type, data.receipt, data.signature);
       })
       .then(function () {
         var alertPopup = $ionicPopup.alert({
